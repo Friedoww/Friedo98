@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Friedo98
+- 👋 Hi, I’m @Friedoww
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ... help me  I'm lost 
